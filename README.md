@@ -1,5 +1,5 @@
-# docs
-Documentation collection
+# DevOps Docs
+DevOps - official and practical documentation collection
 
 ## Kubernetes
 - https://kubernetes.io/docs/home/
@@ -13,3 +13,18 @@ Documentation collection
 
 ## Docker
 - https://docs.docker.com/
+
+## AWS
+- https://docs.aws.amazon.com/
+
+## Azure
+- https://learn.microsoft.com/en-us/azure/?product=popular
+
+## Helm
+- https://helm.sh/docs/
+
+## Jenkins
+- https://www.jenkins.io/doc/
+
+## Istio
+- https://istio.io/latest/docs/
