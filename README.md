@@ -47,6 +47,18 @@ DevOps - official and practical documentation collection
 ## Github Action
 - https://docs.github.com/en/actions
 
+## Prometheus
+- https://prometheus.io/docs/introduction/overview/
+
+## Python
+- https://www.python.org/doc/
+
+## Openstack
+- https://docs.openstack.org/2024.1/index.html
+
+## Azure DevOps
+- https://learn.microsoft.com/en-us/azure/devops/?view=azure-devops
+
 ## GitLab CI
 - https://docs.gitlab.com/ee/ci/
 
